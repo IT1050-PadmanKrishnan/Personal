@@ -1,0 +1,50 @@
+12/14/2016
+MS Updates
+Adobe Flashplayer                      24.0.0.186
+Mozilla Firefox			       50.1.0
+Cisco Supervisor                       10.6
+Google Chrome                          55.0.2883.87
+Wacom Tablet Drivers
+
+
+11/09/2016
+MS Updates
+Adobe Flashplayer			23.0.0.207
+Mozilla Firefox				50.0
+VMware Tools				10.0.9.3917699
+
+09/15/2016
+MS Updates
+Adobe Acrobat Reader			15.017.20053
+Adobe Flash Player			23.0.0.162
+App Volume Agent			2.11.0.122
+Google Chrome				53.0.2785.116
+Java 8 Update 101			8.0.1010.13
+Mozilla Firefox				48.02
+VLC Media Player			2.2.4
+
+10/11/16
+MS Updates
+Added Java security files for Tridium
+WebXtender Components 			7.0.1057.8
+Hyland WebActiveX Controls  		15.0.2141
+Adobe Reader 				15.020.20039
+Mozilla Firefox				49.0.1
+Google Chrome 				53.0.2785.143
+Adobe Flash Player NPAPI		23.0.0.185
+Adobe Shockwave Player 			12.2.5.195
+
+10/25/16
+
+Java 8 Update 111			8.0.1110.14
+Added Chrome local group policy template
+
+10/31/16
+
+Microsoft Phish Filter
+Removed Skype for Business
+Adobe Flash Player NPAPI		23.0.0.205
+
+
+
+
